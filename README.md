@@ -3,4 +3,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaetanFrejoux&theme=bear)]
 
 
+![Visitor Count](https://profile-counter.glitch.me/{GaetanFrejoux}/count.svg)
 
