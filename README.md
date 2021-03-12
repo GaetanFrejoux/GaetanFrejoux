@@ -5,5 +5,5 @@
 
 ![](https://komarev.com/ghpvc/?username=GaetanFrejoux&color=lightgrey&label=views)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GaetanFrejoux&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GaetanFrejoux&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
