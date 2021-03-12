@@ -5,4 +5,4 @@
 
 ![](https://komarev.com/ghpvc/?username=GaetanFrejoux&color=lightgrey&label=views)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=GaetanFrejoux&theme=dracula&no-frame=true&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=GaetanFrejoux&theme=dracula&no-frame=true&no-bg=true&margin-w=15)
