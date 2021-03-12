@@ -3,5 +3,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaetanFrejoux&theme=bear)
 
 
-![](https://komarev.com/ghpvc/?username=GaetanFrejoux&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=GaetanFrejoux&color=lightgrey&label=views)
 
