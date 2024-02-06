@@ -3,8 +3,7 @@
 ## About me
 
 My name is Gaëtan Fréjoux.  
-I'm studying computer science at the university of Poitiers in France.  
-Currently a trainee for Serli.
+I'm currently working for Serli as a Software developer
 
 ## Contact me
 
